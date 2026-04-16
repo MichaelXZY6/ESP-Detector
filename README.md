@@ -2,6 +2,12 @@
 
 Real-time object detection Android app with game-style ESP (Extra Sensory Perception) overlay.
 
+## Download
+
+**[Download APK (v2.0)](https://github.com/MichaelXZY6/ESP-Detector/releases/latest)**
+
+> Android 8.0+ required. No root needed.
+
 ## Features
 
 - **Real-time Detection** — YOLOv8n INT8 model, 80 COCO classes, ~18 FPS on mid-range phones
